@@ -1,0 +1,21 @@
+# Recipe Manager Application
+
+This is a simple Recipe Manager application created using HTML, CSS, and JavaScript. Users can add new recipes along with their descriptions, which will be displayed on the page.
+
+## Features
+- Add new recipes with descriptions.
+- Simple and clean UI for easy use.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Use
+1. Open index.html in a web browser.
+2. Enter the recipe name in the input field.
+3. Enter the recipe description in the textarea.
+4. Click 'Add Recipe' to display your recipe in the list.
+
+## Screenshot
+![Recipe Manager Application](screenshot.png)
